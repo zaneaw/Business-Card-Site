@@ -1,18 +1,3 @@
-## Based on the Figma Design found here:
-https://www.figma.com/file/TNtbNGyrf80EsPG5vLhjpm/Digital-Business-Card?node-id=0%3A129
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
