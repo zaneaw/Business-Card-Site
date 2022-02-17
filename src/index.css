@@ -13,6 +13,10 @@ body {
     background-color: #1a1b21;
 }
 
+a {
+    text-decoration: none;
+}
+
 .main--div {
     display: flex;
     flex-direction: column;
@@ -54,7 +58,6 @@ body {
     color: #f5f5f5;
     margin: 0;
     padding-top: 9px;
-    text-decoration: none;
 }
 
 .button--div {
@@ -145,17 +148,19 @@ footer {
     display: flex;
     background-color: #161619;
     align-items: center;
+    justify-content: center;
     width: 100%;
     padding: 19px 73px 20px 73px;
     border-radius: 0 0 10px 10px;
 }
 
-footer > i {
+footer > a {
     color: #918E9B;
-    padding-top: 19px;
-    padding-bottom: 20px;
+    margin-top: 19px;
+    margin-bottom: 20px;
+    width: 28px;
 }
 
 .twitter, .facebook, .insta {
-    padding-right: 24px;
+    margin-right: 24px;
 }
