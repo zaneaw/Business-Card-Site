@@ -12,7 +12,7 @@ export default function Main() {
             </p>
             <h4 className="main--interests">Interests</h4>
             <p>
-                Dog Dad. Food lover. Casual at-home chef. Enjoyer of all music. Gamer. I have a love/hate relationship with hot wings and pizza... Was once a real estate broker/team leader at The Corcoran Group.
+                Dog Dad. Food lover. Casual at-home chef. Enjoyer music. Gamer. I have a love/hate relationship with hot wings and pizza... Was once a real estate broker/team leader at The Corcoran Group.
             </p>
         </main>
     );
