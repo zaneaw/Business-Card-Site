@@ -9,7 +9,7 @@ export default function Header() {
             <h5>Full Stack Developer</h5>
             <a href="https://www.zane-wilson.com/" target="_blank" rel="noreferrer">zane-wilson.com</a>
             <div className="button--div">
-                <a href="mailto:wilsonzanea@gmail.com" target="_blank" rel="noreferrer">
+                <a href="mailto:wilsonzanea@gmail.com?subject=Digital%20Business%20Card" target="_blank" rel="noreferrer">
                     <button type="button" className="header--button em--button">
                         <i className="fa-solid fa-envelope"></i>
                         <p>Email</p>
