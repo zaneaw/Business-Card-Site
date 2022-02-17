@@ -5,16 +5,14 @@ export default function Main() {
         <main>
             <h4 className="main--about">About</h4>
             <p>
-                I am a frontend developer with a particular interest in making
+                I am a Full Stack Developer with a particular interest in making
                 things simple and automating daily tasks. I try to keep up with
                 security and best practices, and am always looking for new
                 things to learn.
             </p>
             <h4 className="main--interests">Interests</h4>
             <p>
-                Food expert. Music scholar. Reader. Internet fanatic. Bacon
-                buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee
-                fanatic.
+                Dog Dad. Food lover. Casual at-home chef. Enjoyer of all music. Gamer. I have a love/hate relationship with hot wings and pizza... Was once a real estate broker/team leader at The Corcoran Group.
             </p>
         </main>
     );
