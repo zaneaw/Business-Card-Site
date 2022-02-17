@@ -6,18 +6,17 @@ export default function Header() {
         <div className="main--div">
             <img src="assets/images/zane-big.jpg" alt="Zane" />
             <h3>Zane A. Wilson</h3>
-            <h5>Full Stack Web Developer</h5>
-            <p>wilsonzanea@gmail.com</p>
+            <h5>Full Stack Developer</h5>
+            <a href="https://www.zane-wilson.com/">
+                zane-wilson.com
+            </a>
             <div className="button--div">
                 <button type="button" className="header--button em--button">
-                    <i class="fas fa-envelope"></i>
+                    <i className="fa-solid fa-envelope"></i>
                     <p>Email</p>
                 </button>
                 <button type="button" className="header--button li--button">
-                    <img
-                        src="assets/images/linkedin-brands.svg"
-                        alt="linkedin logo"
-                    />
+                    <i className="fa-brands fa-linkedin"></i>
                     <p>LinkedIn</p>
                 </button>
             </div>
